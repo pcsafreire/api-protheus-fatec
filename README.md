@@ -1,4 +1,4 @@
-## Grupo de Estudos: Uso prático de API's Públicas com o sistema TOTVS Protheus - ADS - Fatec Itapetininga - 2024 
+## Grupo de Estudos: Uso prático de API's Públicas com o sistema TOTVS Protheus - ADS - Fatec Itapetininga - 2024 - Prof Maicon Macedo
 ### Seja Bem-Vindo
 ---
 ### Objetivo
